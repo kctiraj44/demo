@@ -19,7 +19,8 @@ public class TicTacToe implements ActionListener {
      String  str;
      boolean win;
      Color color1;
-    //iamhere
+     JTextField jt1;
+   
  int    count = 0 ;
     
     TicTacToe(){
